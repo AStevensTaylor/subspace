@@ -33,7 +33,6 @@ RUN apk add --no-cache \
     iproute2 \
     iptables \
     ip6tables \
-    dnsmasq \
     socat  \
     wireguard-tools \
     runit
